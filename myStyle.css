@@ -12,6 +12,8 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100px; 
-  height: 140px;
+}
+
+div {
+  margin-center: 20px;
 }
