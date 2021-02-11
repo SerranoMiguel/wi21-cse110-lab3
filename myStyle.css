@@ -18,3 +18,9 @@ ul {
     text-align: center;
     list-style-position: inside;
 }
+
+.middle{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
