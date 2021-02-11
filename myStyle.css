@@ -18,3 +18,8 @@ div {
   text-align: center; 
 }
 
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
