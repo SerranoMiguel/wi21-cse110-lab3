@@ -27,3 +27,11 @@ ul {
   padding: 10px;
 }
 
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  list-style-position: inside;
+}
